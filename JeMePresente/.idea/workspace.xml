@@ -22,6 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="1aHZwrv6gwg46eZQsVU8Mqhr1mm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,11 +43,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\steph\Desktop\IntegrationWebGit\StephaniePoulin\JeMePresente\img" />
+      <recent name="C:\Users\steph\Desktop\IntegrationWeb1\JeMePresente\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\steph\Desktop\IntegrationWeb1\JeMePresente" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\steph\Desktop\IntegrationWeb1\JeMePresente\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -61,7 +63,7 @@
       <updated>1586394720816</updated>
       <workItem from="1586394722414" duration="5522000" />
       <workItem from="1586990239738" duration="1463000" />
-      <workItem from="1586996918910" duration="1269000" />
+      <workItem from="1586996918910" duration="2406000" />
     </task>
     <servers />
   </component>
@@ -73,5 +75,9 @@
       <screen x="0" y="0" width="1475" height="789" />
     </state>
     <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1586990243221" />
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup" timestamp="1586999432293">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup/0.0.1475.789@0.0.1475.789" timestamp="1586999432293" />
   </component>
 </project>
