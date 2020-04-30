@@ -1,0 +1,43 @@
+/* csssheet.css/
+/* créé par Stephanie/
+/* le 29-04-2020/ */
+
+
+/* color style*/
+body
+    {
+    background-color: #8eeec0 ;
+    margin: 2rem;
+}
+
+h1, h3{
+    color: white;
+}
+
+h1{
+    font-size: 4rem;
+}
+img#me {
+    width: 9rem;
+    size: 12rem;
+    box-shadow: lightgray;
+    border-radius: 70%;
+}
+p, table, ul{
+    color: #484848;
+    box-shadow: black;
+}
+a {
+    color: blue;
+}
+a:hover {
+    color: blueviolet;
+}
+/* End of color style*/
+
+/*Chart scaling*/
+table, th, td {
+   color: #484848;
+   border: solid;
+}
+/* End Chart scaling*/

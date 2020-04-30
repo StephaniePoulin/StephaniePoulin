@@ -1,0 +1,57 @@
+.content{
+    width: 1000px;
+}
+body{
+    background: url("../img/etoileMort.jpg") no-repeat;
+    size: 1000px;
+    background-color: black;
+    margin: auto;
+}
+
+@font-face {
+    font-family: Starjedi;
+    src: url("../font/Starjedi.ttf");
+}
+
+h1{
+    font-family: Starjedi;
+    font-size: 140px;
+    color: yellow;
+    margin: 0;
+    text-align: justify;
+}
+
+h2, h3, h4{
+    color: white;
+    margin: center;
+}
+
+h2{
+    font-size: 72px;
+}
+
+h3{
+    font-size: 60px;
+}
+
+h4{
+    font-size: 44px;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.films{
+    color: yellow;
+}
+a{
+    color: white;
+}
