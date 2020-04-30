@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acb957b3-1cca-4457-9629-931baeefa529" name="Default" comment="" />
+    <list default="true" id="acb957b3-1cca-4457-9629-931baeefa529" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HanSolo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bEwChGdHuZUR189ICEXZ2OdW2K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -92,6 +96,7 @@
       <workItem from="1493937236139" duration="1208000" />
       <workItem from="1552676839065" duration="3154000" />
       <workItem from="1588210438117" duration="3715000" />
+      <workItem from="1588214541284" duration="102000" />
     </task>
     <servers />
   </component>
@@ -107,9 +112,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="439" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1588210439877">
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1588214541474">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1588210439877" />
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1588214541474" />
   </component>
 </project>
