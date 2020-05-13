@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb957b3-1cca-4457-9629-931baeefa529" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Examen1/Examen1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -97,6 +95,8 @@
       <workItem from="1552676839065" duration="3154000" />
       <workItem from="1588210438117" duration="3715000" />
       <workItem from="1588214541284" duration="102000" />
+      <workItem from="1588806311780" duration="626000" />
+      <workItem from="1588807637091" duration="119000" />
     </task>
     <servers />
   </component>
@@ -112,9 +112,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="439" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1588214541474">
+    <state x="518" y="150" key="FileChooserDialogImpl" timestamp="1588807753599">
       <screen x="0" y="0" width="1475" height="789" />
     </state>
-    <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1588214541474" />
+    <state x="518" y="150" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1588807753599" />
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1588807646625">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1588807646625" />
   </component>
 </project>
