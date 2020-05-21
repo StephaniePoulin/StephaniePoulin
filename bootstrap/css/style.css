@@ -1,0 +1,29 @@
+/* style.css */
+/* modifié par Stephanie Poulin */
+/* 20/05/2020 */
+
+.header{
+    background-color: black;
+    height: 200px;
+}
+
+.formulaire{
+    background-color: #f05f40;
+    height: 80px;
+}
+.logo1{
+    background-color: wheat;
+    height: 80px;
+}
+.logo2{
+    background-color: beige;
+    height: 80px;
+}
+.photo1{
+    background-color: black;
+    height: 80px;
+}
+.photo2{
+    background-color: gray;
+    height: 80px;
+}
