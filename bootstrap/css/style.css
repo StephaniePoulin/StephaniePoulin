@@ -3,6 +3,7 @@
 /* 20/05/2020 */
 
 .header{
+    text-align: center;
     background-color: black;
     height: 200px;
     color: white;
@@ -28,6 +29,7 @@ hr{
     background-color: beige;
     height: 80px;
 }
+
 .photo1{
     background-color: black;
     height: 80px;
