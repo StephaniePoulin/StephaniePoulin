@@ -5,6 +5,15 @@
 .header{
     background-color: black;
     height: 200px;
+    color: white;
+}
+
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
 }
 
 .formulaire{
@@ -26,4 +35,8 @@
 .photo2{
     background-color: gray;
     height: 80px;
+}
+
+a{
+    color: black;
 }
