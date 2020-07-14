@@ -40,6 +40,16 @@ html,body {
     }
 }
 
+@media screen and (min-width: 1200px) {
+    body{
+        background-image: url("../medias/pokeballwallpaper.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        max-width: 100%;
+    }
+}
+
+
 .parallax {
     /* L’image du Parallax */
     background-image: url("../medias/Pokemon20thAnniv.jpg");
