@@ -3,8 +3,18 @@
     src: url("../font/PokemonSolid.ttf");
 }
 
+@font-face{
+    font-family: Bebas;
+    src: url("../font/BebasRegular.ttf");
+}
+
 .Webname{
     font-family: Pokemon;
+}
+
+.Poke20th{
+    font-family: Bebas;
+    font-size: 8rem;
 }
 
 h2{
@@ -32,6 +42,10 @@ html,body {
     margin:0; height:100%;
 }
 
+.White{
+    background-color: #FDFFFF;
+}
+
 @media only screen and (max-width: 480px){
     body{
         background-image: url("../medias/NessaxMilotic.jpg");
@@ -41,10 +55,11 @@ html,body {
 }
 
 @media screen and (min-width: 1200px) {
-    body{
-        background-image: url("../medias/pokeballwallpaper.jpg");
+    .Black{
+        background-color: black;
+        background-image: url("../medias/umbreonwallpaper.jpg");
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: center;
         max-width: 100%;
     }
 }
