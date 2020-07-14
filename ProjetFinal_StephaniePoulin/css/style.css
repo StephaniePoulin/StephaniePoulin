@@ -17,18 +17,11 @@
     font-size: 8rem;
 }
 
-h2{
-    font-size: 0.9em;
-}
 
 button{
     margin: 1em;
 }
 
-h3{
-    font-size: 1em;
-    color: black;
-}
 
 .Alert{
     font-size: 0.9em;
@@ -75,4 +68,9 @@ html,body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.ImgNews{
+    max-width: 100%;
+    max-height: 100%;
 }
