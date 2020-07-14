@@ -36,11 +36,6 @@ a, a:hover, a:visited, a:link{
     background-color: #FDFFFF;
 }
 
-
-/*
-DEMANDER À LAURENT POUR METTRE L'IMAGE À SA TAILLE RÉEL
- */
-
 @media only screen and (max-width: 480px){
     html,body{
         height: 100%;
