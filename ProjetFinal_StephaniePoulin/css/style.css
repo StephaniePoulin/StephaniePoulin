@@ -42,6 +42,7 @@ html,body {
 @media only screen and (max-width: 480px){
     .Black{
         background-image: url("../medias/NessaxMilotic.jpg");
+        background-color: #050f19;
         background-repeat: no-repeat;
         background-position: center;
     }
