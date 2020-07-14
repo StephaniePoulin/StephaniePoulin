@@ -1,0 +1,56 @@
+@font-face{
+    font-family: Pokemon;
+    src: url("../font/PokemonSolid.ttf");
+}
+
+.Webname{
+    font-family: Pokemon;
+}
+
+h2{
+    font-size: 0.9em;
+}
+
+button{
+    margin: 1em;
+}
+
+h3{
+    font-size: 1em;
+    color: black;
+}
+
+.Alert{
+    font-size: 0.9em;
+}
+
+a, a:hover, a:visited, a:link{
+    color: white;
+}
+
+html,body {
+    margin:0; height:100%;
+}
+
+@media only screen and (max-width: 480px){
+    .parallax{
+        background-image: url("../medias/NessaxMilotic.jpg");
+        height: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../medias/Pokemon20thAnniv.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
