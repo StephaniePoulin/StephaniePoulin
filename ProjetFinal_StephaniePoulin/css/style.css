@@ -33,13 +33,10 @@ html,body {
 }
 
 @media only screen and (max-width: 480px){
-    .parallax{
+    body{
         background-image: url("../medias/NessaxMilotic.jpg");
-        height: 100%;
-        background-attachment: fixed;
-        background-position: center;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-position: center;
     }
 }
 
