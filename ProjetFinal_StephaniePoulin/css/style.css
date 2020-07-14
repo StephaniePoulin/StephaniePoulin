@@ -36,6 +36,11 @@ a, a:hover, a:visited, a:link{
     background-color: #FDFFFF;
 }
 
+
+/*
+DEMANDER À LAURENT POUR METTRE L'IMAGE À SA TAILLE RÉEL
+ */
+
 @media only screen and (max-width: 480px){
     html,body{
         height: 100%;
@@ -43,14 +48,14 @@ a, a:hover, a:visited, a:link{
     }
     .bg {
         background-size: cover;
-        background-color: #104d62;
+        background-color: #01375d;
         background-repeat: no-repeat;
         background-position: center;
     }
     .bg::after {
         content: "";
-        background-image: url("../medias/NessaxMilotic.jpg");
-        opacity: 0.5;
+        background-image: url("../medias/bg.png");
+        opacity: 0.3;
         top: 0;
         left: 0;
         bottom: 5rem;
@@ -58,15 +63,6 @@ a, a:hover, a:visited, a:link{
         position: absolute;
         z-index: -1;
     }
-    }
-}
-
-@media screen and (min-width: 1200px) {
-    .Black{
-        background-color: black;
-        background-image: url("../medias/umbreonwallpaper.jpg");
-        background-repeat: no-repeat;
-        background-position: center;
     }
 }
 
