@@ -31,20 +31,33 @@ a, a:hover, a:visited, a:link{
     color: white;
 }
 
-html,body {
-    margin:0; height:100%;
-}
 
 .White{
     background-color: #FDFFFF;
 }
 
 @media only screen and (max-width: 480px){
-    .Black{
-        background-image: url("../medias/NessaxMilotic.jpg");
-        background-color: #050f19;
+    html,body{
+        height: 100%;
+        width: 100%;
+    }
+    .bg {
+        background-size: cover;
+        background-color: #104d62;
         background-repeat: no-repeat;
         background-position: center;
+    }
+    .bg::after {
+        content: "";
+        background-image: url("../medias/NessaxMilotic.jpg");
+        opacity: 0.5;
+        top: 0;
+        left: 0;
+        bottom: 5rem;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
     }
 }
 
