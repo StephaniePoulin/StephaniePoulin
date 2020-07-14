@@ -77,3 +77,8 @@ a, a:hover, a:visited, a:link{
     max-width: 100%;
     max-height: 100%;
 }
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
