@@ -40,7 +40,7 @@ html,body {
 }
 
 @media only screen and (max-width: 480px){
-    body{
+    .Black{
         background-image: url("../medias/NessaxMilotic.jpg");
         background-repeat: no-repeat;
         background-position: center;
@@ -53,7 +53,6 @@ html,body {
         background-image: url("../medias/umbreonwallpaper.jpg");
         background-repeat: no-repeat;
         background-position: center;
-        max-width: 100%;
     }
 }
 
