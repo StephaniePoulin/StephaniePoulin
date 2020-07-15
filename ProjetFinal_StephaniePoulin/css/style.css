@@ -13,8 +13,11 @@
 }
 
 .Poke20th{
-    font-family: Bebas;
     font-size: 8rem;
+}
+
+.Poke20th, h1, h2, h3{
+    font-family: Bebas;
 }
 
 
@@ -34,6 +37,20 @@ a, a:hover, a:visited, a:link{
 
 .White{
     background-color: #FDFFFF;
+}
+
+@media screen and (min-width: 999px) {
+    .pTop{
+        margin-top: 8rem;
+    }
+
+    .pMid{
+        margin-top: 3rem;
+    }
+
+    .pBot{
+        margin-top: 12rem;
+    }
 }
 
 @media only screen and (max-width: 480px){
