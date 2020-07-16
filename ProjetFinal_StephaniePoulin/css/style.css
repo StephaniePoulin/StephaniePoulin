@@ -118,5 +118,10 @@ hr{
     height: 1px;
     color: white;
     background-color: white;
-    width: 50rem;
+    width: 100%;
+}
+
+.vl {
+    border-left: 1px solid white;
+    height: 3.5rem;
 }
