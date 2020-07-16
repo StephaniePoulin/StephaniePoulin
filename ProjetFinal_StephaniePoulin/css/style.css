@@ -10,16 +10,23 @@
 
 .Webname{
     font-family: Pokemon;
+    font-size: 2rem;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 1.5rem;
 }
 
 .Poke20th{
     font-size: 8rem;
 }
 
-.Poke20th, h1, h2, h3{
+.Poke20th, h1, h2, h3, a, button{
     font-family: Bebas;
 }
 
+h5{
+    color: white;
+}
 
 button{
     margin: 1em;
@@ -34,6 +41,9 @@ a, a:hover, a:visited, a:link{
     color: white;
 }
 
+.nav-link{
+    font-size: 1.6rem;
+}
 
 .White{
     background-color: #FDFFFF;
@@ -41,7 +51,7 @@ a, a:hover, a:visited, a:link{
 
 @media screen and (min-width: 999px) {
     .pTop{
-        margin-top: 8rem;
+        margin-top: 6rem;
     }
 
     .pMid{
@@ -49,7 +59,7 @@ a, a:hover, a:visited, a:link{
     }
 
     .pBot{
-        margin-top: 12rem;
+        margin-top: 10rem;
     }
 }
 
@@ -98,4 +108,15 @@ a, a:hover, a:visited, a:link{
 html,body{
     height: 100%;
     width: 100%;
+}
+
+footer{
+    background-color: #5a6268;
+}
+
+hr{
+    height: 1px;
+    color: white;
+    background-color: white;
+    width: 50rem;
 }
