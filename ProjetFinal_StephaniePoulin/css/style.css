@@ -77,6 +77,11 @@ a, a:hover, a:visited, a:link{
         height: 3.5rem;
     }
 }
+@media only screen and (min-width: 1200px){
+    body{
+        background-color: #FFD333;
+    }
+}
 
 @media only screen and (max-width: 480px){
     html,body{
@@ -101,6 +106,13 @@ a, a:hover, a:visited, a:link{
         z-index: -1;
     }
 }
+
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    body{
+        background-color: #33FFD5;
+    }
+}
+
 
 
 .parallax {
