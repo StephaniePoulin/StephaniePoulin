@@ -24,7 +24,7 @@
     font-family: Bebas;
 }
 
-h5{
+h5, h2{
     color: white;
 }
 
@@ -104,6 +104,9 @@ a, a:hover, a:visited, a:link{
         right: 0;
         position: absolute;
         z-index: -1;
+    }
+    .news{
+        margin-top: 1rem;
     }
 }
 
@@ -188,3 +191,4 @@ hr{
     margin: auto;
     padding-top: 1rem;
 }
+
