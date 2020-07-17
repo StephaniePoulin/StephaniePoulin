@@ -20,7 +20,7 @@
     font-size: 8rem;
 }
 
-.Poke20th, h1, h2, h3, a, button{
+.Poke20th, h1, h2, h3, a, button, .card-header{
     font-family: Bebas;
 }
 
@@ -32,6 +32,9 @@ button{
     margin: 1em;
 }
 
+.card-header{
+    font-size: 2rem;
+}
 
 .Alert{
     font-size: 0.9em;
@@ -60,6 +63,10 @@ a, a:hover, a:visited, a:link{
 
     .pBot{
         margin-top: 10rem;
+    }
+    .vl {
+        border-left: 1px solid white;
+        height: 3.5rem;
     }
 }
 
@@ -124,10 +131,6 @@ hr{
     width: 100%;
 }
 
-.vl {
-    border-left: 1px solid white;
-    height: 3.5rem;
-}
 
 .Me{
     margin: auto;
@@ -139,6 +142,8 @@ hr{
     padding-top: 2rem;
 }
 
-nav{
-    width: 100%;
+.FavImg{
+    max-width: 100%;
+    margin: auto;
+    padding: 1rem;
 }
