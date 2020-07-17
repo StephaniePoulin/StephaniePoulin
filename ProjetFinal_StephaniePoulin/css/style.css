@@ -196,3 +196,7 @@ hr{
     padding-top: 1rem;
 }
 
+iframe{
+    width: 100%;
+}
+
