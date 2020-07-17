@@ -125,3 +125,17 @@ hr{
     border-left: 1px solid white;
     height: 3.5rem;
 }
+
+.Me{
+    margin: auto;
+    max-width: 100%;
+    padding-bottom: 1rem;
+}
+
+.Fav{
+    padding-top: 2rem;
+}
+
+nav{
+    width: 100%;
+}
