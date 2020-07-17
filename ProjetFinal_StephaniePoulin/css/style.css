@@ -28,8 +28,16 @@ h5{
     color: white;
 }
 
+.h5Modal{
+    color: black;
+}
+
 button{
     margin: 1em;
+}
+
+.NoMargin{
+    margin: 0;
 }
 
 .card-header{
