@@ -116,11 +116,8 @@ a, a:hover, a:visited, a:link{
 
 
 .parallax {
-    /* L’image du Parallax */
     background-image: url("../medias/Pokemon20thAnniv.jpg");
-    /* L’hauteur du Parallax */
     height: 100%;
-    /* Création de l’effet */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -148,6 +145,10 @@ hr{
     height: 1px;
     color: white;
     background-color: white;
+    width: 90%;
+}
+
+.my-4{
     width: 100%;
 }
 
@@ -168,3 +169,22 @@ hr{
     padding: 1rem;
 }
 
+.wikilink{
+    margin: 3rem;
+}
+
+.movie{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 100%;
+    margin: auto;
+    max-height: 25rem;
+}
+
+.game{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 100%;
+    margin: auto;
+    padding-top: 1rem;
+}
