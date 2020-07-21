@@ -1,0 +1,202 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.nav-link{
+    color: black;
+    border-top: 5px solid white;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.nav-link:hover{
+    color: black;
+    padding-top: 1rem;
+    border-top: 5px solid #F6B726;
+
+}
+
+
+.Hwebpage{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../medias/free-mockup-macbook.jpg");
+    background-size: cover;
+}
+
+.logo{
+    background-color: white;
+    align-items: center;
+    padding: 1.5rem;
+}
+.imgGaleries{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    margin: auto;
+    width: 100%;
+}
+
+h1{
+    padding: 1rem;
+}
+
+.Space{
+    padding-bottom: 3rem;
+    margin-bottom: 1rem;
+    color: black;
+}
+
+
+ul li, .email{
+    color: #F6B726;
+}
+
+
+ul li span{
+    color: white;
+}
+
+.liste{
+    padding-bottom: 0.6rem;
+}
+
+p{
+    list-style-type: none;
+    color: lightgrey;
+    padding: 0.1rem;
+    margin: 0.1rem;
+}
+
+button{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.Bbg{
+    background-color: #111111;
+    background-image: url("../medias/prism.png");
+    background-repeat: repeat;
+    background-position: center;
+    margin-top: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.HBbg{
+    color: white;
+    margin-top: 3rem;
+}
+
+.light{
+    background-color: #ABABAB;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.H2{
+    margin-top: 4rem;
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 8rem;
+    padding: 0;
+}
+
+.h2-3{
+    margin-top: 5rem;
+    color: white;
+    margin-bottom: 2.5rem;
+    font-size: 1.2rem;
+}
+
+h3{
+    color: white;
+    margin-top: 6rem;
+    font-size: 1.1rem;
+}
+
+.SocialMedia{
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    color: white;
+    margin-top: 4rem;
+    margin-bottom: 7rem;
+}
+
+.Coordonnees{
+    background-image: linear-gradient(gray, black);
+    background-size: cover;
+}
+
+.email{
+    margin-bottom: 6rem;
+    font-size: 1.7rem;
+}
+
+.phone{
+    font-weight: bold;
+    color: white;
+}
+
+.phone span{
+    font-weight: normal;
+    color: lightgrey;
+}
+
+.foot{
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+footer span{
+    color: #F6B726;
+}
+
+@media screen and (min-width: 768px){
+    .liste{
+        padding-bottom: 4rem;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .listesm{
+        padding-bottom: 2rem;
+    }
+    h2{
+        color: white;
+        font-size: 1rem;
+    }
+    .Coordonnees{
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .navBar{
+        display: none;
+    }
+}
+
+
+
